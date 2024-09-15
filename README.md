@@ -1,5 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ctJDMcM2)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15452332)
-# DON'T FORGET THE README! Explain what I will find here. Link your projects!
+Diese Webseite von Anne Fiedler zeigt die Dokumentation des Moduls "Grundlagen der digitalen Kommunikation 2" bei Fabian Morón Zirfas an der HBK Braunschweig.
 
-- DONT FORGET THE LICENSE!
+Bei der Auseinandersetzung mit KI habe ich drei Projekte entwickelt, welche auf dieser Seite zu finden sind. 
+
+Das 1. Projekt war zu Googles Teachable Machine, bei dem ich ein Quiz zu der Unterscheidung von fotorealistischen Zeichnungen zu Fotos erstellte. Auf Grund von fehlenden Bildrechten ist die Webseite zu diesem Projekt nicht online zu finden.
+
+
+Das 2. Projekt zu larch language models findet man hier:
+https://postcard-writer.netlify.app/ 
+sowie den code dazu auf github hier: 
+https://github.com/hbk-bs/llm-anne2810.git. 
+Bei diesem Projekt habe ich einen Postkartenschreiber entwickelt.
+
+Das 3. Projekt habe ich mit Mirea Černota (https://github.com/Mirea26) zusammengemacht und zeigt eine generierte graphic novel. Diese ist hier zu finden: https://das-atmende-zimmer.netlify.app/
+der dazugehörige Code ist hier:
+ https://github.com/hbk-bs/a-generative-story-mireanne.git.

@@ -126,7 +126,7 @@ p {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  margin-top: 5%;
+  margin-top: 1rem;
   margin-bottom: 1rem;
  
   
@@ -224,11 +224,41 @@ figure {
   }
 }
 
+.image-gallery-2 {
+  display: flex;
+  justify-content: space-between; /* Platz zwischen den Bildern */
+  flex-wrap: wrap; /* Elemente umbrechen, wenn kein Platz mehr ist */
+  gap: 10px; /* Abstand zwischen den Bildern */
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
 
+.image-container-2 {
+  position: relative;
+  width: 30%; /* Bilder sind 30% der Gesamtbreite */
+  
+}
+
+.image-2 img {
+  display: block;
+  width: 100%; /* Bild füllt den Container */
+  height: auto;
+}
+
+
+
+a {
+  color: #173b61;
+  
+}
+a:hover {
+  color: #7697A0;
+}
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   font-weight: 500;
+  margin-top: 0.5rem;
   margin-bottom: 10%;
 }
 
@@ -240,7 +270,7 @@ figcaption {
   margin: 0; 
   color: #FFEBD0;
   position: relative;
-  margin-top: auto;
+  margin-top: 5rem;
 }
 
 
